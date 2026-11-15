@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "recuris-metaagent-gate-schema",
+  "original_repository": "Gen-Verse/Recuris",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/recuris/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-22-06.json"
+  ],
+  "title": "Reject invalid or unpaired held-out scores",
+  "work_state": "DELIVERED",
+  "next_action": "No further work while owner_control is PAUSE; revalidate on explicit RESUME",
+  "source_revision": "7d3745ab787b1206ccd981cb1511100476097266",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/recuris/CONTRIBUTION_HANDOFF.md"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/Gen-Verse/Recuris/pull/2"
+  ],
+  "last_event_id": null
+}
